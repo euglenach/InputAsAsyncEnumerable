@@ -1,0 +1,20 @@
+{
+  "name": "com.euglenach.inputasasyncenumerable",
+  "version": "1.0.0",
+  "displayName": "InputAsAsyncEnumerable",
+  "description": "Treat InputManager as AsyncEnumerable(IUniTaskAsyncEnumerable)",
+  "dependencies": {
+    "com.cysharp.unitask": "2.2.5"
+  },
+  "author": {
+    "name": "euglenach",
+    "email": "midorimushiiii@gmail.com"
+  },
+  "samples": [
+    {
+      "displayName": "TestInput",
+      "description": "",
+      "path": "Samples"
+    }
+  ]
+}
