@@ -1,8 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using Cysharp.Threading.Tasks;
-using Cysharp.Threading.Tasks.Linq;
-using InputAsAE.Utils;
+using InputAsAE.Internal;
 using UnityEngine;
 
 namespace InputAsAE{
