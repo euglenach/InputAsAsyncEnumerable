@@ -6,10 +6,18 @@
   "dependencies": {
     "com.cysharp.unitask": "2.2.5"
   },
+  "keywords": [
+    "async/await",
+    "async",
+    "Task",
+    "UniTask"
+  ],
   "author": {
     "name": "euglenach",
     "email": "midorimushiiii@gmail.com"
   },
+  "license": "MIT",
+  "category": "Task",
   "samples": [
     {
       "displayName": "TestInput",
